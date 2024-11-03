@@ -122,7 +122,7 @@ fun CalculatorPage()
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun PreviewCalculator() {
     MyhomeTheme {
         CalculatorPage()
     }
